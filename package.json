@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TatyanaLozova/project-team-12.git"
+    "url": "git+https://github.com/TatyanaLozova/goit-js-hw-13-image-finder.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TatyanaLozova/project-team-12/issues"
+    "url": "https://github.com/TatyanaLozova/goit-js-hw-13-image-finder/issues"
   },
-  "homepage": "https://github.com/TatyanaLozova/project-team-12t#readme",
+  "homepage": "https://github.com/TatyanaLozova/goit-js-hw-13-image-finder#readme",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
