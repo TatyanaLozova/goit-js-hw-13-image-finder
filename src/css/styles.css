@@ -9,7 +9,7 @@ body {
   background: black;
   color: rgb(231, 152, 152);
   box-sizing: border-box;
-  background-image: url('https://pixabay.com/get/g0665a44f4e282c0689c3b88653f58a4acb0eeb0c5271da7baa103add7fdd42219145031d3d4eeeb071712794ddf4f04047308ee0dbf6dfd666e98c490be15686_1280.jpg');
+  background-image: url('https://cdn.pixabay.com/photo/2021/03/09/14/33/dog-6082017_960_720.jpg');
   background-size: 100vw, 100vh;
   position: relative;
 }
